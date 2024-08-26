@@ -1,8 +1,11 @@
 # Learn-Alteryx
+![image](https://github.com/user-attachments/assets/d85beb00-1362-489a-8278-615f2913c928)
 
 This repository is dedicated to solving weekly Alteryx challenges available at the [Alteryx Community](https://community.alteryx.com/t5/Weekly-Challenges/bd-p/weeklychallenge#post_time|solved-and-unsolved||1). The challenges cover a wide range of topics, from basic data manipulation to advanced analytics, providing an excellent opportunity to enhance your Alteryx skills.
 
 ## Why Solve Alteryx Challenges?
+![image](https://github.com/user-attachments/assets/ae3ec7d9-48b6-40f0-b39a-e15905bee4cb)
+
 
 - **Skill Enhancement**: These challenges help in honing your Alteryx skills by offering real-world scenarios.
 - **Community Engagement**: Solving challenges allows you to engage with the Alteryx community, exchange ideas, and learn from others.
